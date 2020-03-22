@@ -1,2 +1,2 @@
 # Jags_Reddy_DataScience_Learnings
-This folder contains all the resources for learning SQL (Structured Query Language) along with examples that are more close to day-to-day work challenges in any job. People from any background can make use of this repository.  However, more focus is given to the use cases of data analysis using SQL.
+I trying to put in all my learnings of data science through out of my career. I will keep updating this repository every time with new content across topics like Statistics, SQL, Python, R, ML etc.
